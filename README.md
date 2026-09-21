@@ -3,26 +3,26 @@
 
 ##  About Me
 
-Hi!:) I'm Yesong,a graduating senior **Computer Science senior at San José State University**.
+Hi!:) I'm Yesong, a graduating senior at **San José State University**, majoring in **Computer Science**.
 I'm interested in **software engineering, AI/ML, AI security**, cybersecurity, and coding-based project management.
 
-and I'm looking for **software engineering internships** and collaboration opportunities.
+This 2026 summer, I conducted research at **Chung-Ang University's CPSS Lab** in Seoul under **Professor Jaewoo Lee**, focusing on **facial image privacy protection and unlearnable data** as a defense against face recognition and re-identification. I've also contributed to security research on **federated learning**, studying backdoor attack vulnerabilities and defenses.
 
-📍 San Jose, CA | Open to [remote / hybrid / on-site] roles
-
-I like understanding how systems work — and how they can be broken or protected. My projects so far span network programming, security tooling, and software architecture in Java.
-
-[지금 배우고 있는 것 1~2문장, 예: "Currently exploring AI/ML security and building small tools to practice."]
+I enjoy digging into how systems work end-to-end, and I'm always excited to team up on projects around **AI and security** — feel free to reach out if something here resonates with you!
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** Java • [Python] • [C/C++] • [SQL] • [JavaScript]
+**Languages:** Java • Python • C • C++ • SQL
 
-**Tools:** Git • GitHub • [IntelliJ IDEA / VS Code] • [Linux]
+**Software Design:** MVC Architecture • OOP • Design Patterns (Strategy, Proxy)
 
-**Interests:** Cybersecurity • AI Security • Network Programming • MVC / Software Design
+**Data & ML:** PySpark • Federated Learning (FL-bench) • Data Pipelines
+
+**Security:** Network Programming • Security Proxies • TCP Socket Programming
+
+**Tools:** Git • GitHub • Linux
 
 ---
 
